@@ -1,0 +1,189 @@
+2022-05-24 22:59:39 [INFO ]  ======================================== 2022-05-24 22:59:39 ========================================
+2022-05-24 22:59:39 [INFO ]  Base directory is ./results/dev\Bios_both\test1
+2022-05-24 22:59:39 [INFO ]  Options: 
+2022-05-24 22:59:39 [INFO ]  	BT: null
+2022-05-24 22:59:39 [INFO ]  	BTObj: null
+2022-05-24 22:59:39 [INFO ]  	DyBT: null
+2022-05-24 22:59:39 [INFO ]  	DyBTObj: null
+2022-05-24 22:59:39 [INFO ]  	DyBTalpha: 0.1
+2022-05-24 22:59:39 [INFO ]  	DyBTinit: original
+2022-05-24 22:59:39 [INFO ]  	FCL: false
+2022-05-24 22:59:39 [INFO ]  	FCLObj: g
+2022-05-24 22:59:39 [INFO ]  	GBT: false
+2022-05-24 22:59:39 [INFO ]  	GBTObj: null
+2022-05-24 22:59:39 [INFO ]  	GBT_N: null
+2022-05-24 22:59:39 [INFO ]  	GBT_alpha: 1
+2022-05-24 22:59:39 [INFO ]  	INLP: false
+2022-05-24 22:59:39 [INFO ]  	INLP_by_class: false
+2022-05-24 22:59:39 [INFO ]  	INLP_discriminator_reweighting: null
+2022-05-24 22:59:39 [INFO ]  	INLP_min_acc: 0.0
+2022-05-24 22:59:39 [INFO ]  	INLP_n: 300
+2022-05-24 22:59:39 [INFO ]  	activation_function: Tanh
+2022-05-24 22:59:39 [INFO ]  	adv_BT: null
+2022-05-24 22:59:39 [INFO ]  	adv_BTObj: null
+2022-05-24 22:59:39 [INFO ]  	adv_activation_function: ReLu
+2022-05-24 22:59:39 [INFO ]  	adv_batch_norm: false
+2022-05-24 22:59:39 [INFO ]  	adv_batch_size: 1024
+2022-05-24 22:59:39 [INFO ]  	adv_checkpoint_interval: 1
+2022-05-24 22:59:39 [INFO ]  	adv_debiasing: false
+2022-05-24 22:59:39 [INFO ]  	adv_decoupling: false
+2022-05-24 22:59:39 [INFO ]  	adv_diverse_lambda: 0.0
+2022-05-24 22:59:39 [INFO ]  	adv_dropout: 0
+2022-05-24 22:59:39 [INFO ]  	adv_epochs: 100
+2022-05-24 22:59:39 [INFO ]  	adv_epochs_since_improvement: 5
+2022-05-24 22:59:39 [INFO ]  	adv_gated: false
+2022-05-24 22:59:39 [INFO ]  	adv_gated_mapping: null
+2022-05-24 22:59:39 [INFO ]  	adv_hidden_size: 300
+2022-05-24 22:59:39 [INFO ]  	adv_lambda: 1
+2022-05-24 22:59:39 [INFO ]  	adv_level: last_hidden
+2022-05-24 22:59:39 [INFO ]  	adv_lr: 0.001
+2022-05-24 22:59:39 [INFO ]  	adv_n_hidden: 2
+2022-05-24 22:59:39 [INFO ]  	adv_num_subDiscriminator: 1
+2022-05-24 22:59:39 [INFO ]  	adv_test_batch_size: 1024
+2022-05-24 22:59:39 [INFO ]  	adv_uniform_label: false
+2022-05-24 22:59:39 [INFO ]  	adv_update_frequency: Batch
+2022-05-24 22:59:39 [INFO ]  	base_seed: 1
+2022-05-24 22:59:39 [INFO ]  	batch_norm: false
+2022-05-24 22:59:39 [INFO ]  	batch_size: 1024
+2022-05-24 22:59:39 [INFO ]  	checkpoint_interval: 1
+2022-05-24 22:59:39 [INFO ]  	classification_head_update_frequency: 1
+2022-05-24 22:59:39 [INFO ]  	conf_file: null
+2022-05-24 22:59:39 [INFO ]  	data_dir: D:\Project\Minding_Imbalance_in_Discriminator_Training\data\bios
+2022-05-24 22:59:39 [INFO ]  	dataset: Bios_both
+2022-05-24 22:59:39 [INFO ]  	device_id: 0
+2022-05-24 22:59:39 [INFO ]  	dropout: 0
+2022-05-24 22:59:39 [INFO ]  	emb_size: 768
+2022-05-24 22:59:39 [INFO ]  	encoder_architecture: Fixed
+2022-05-24 22:59:39 [INFO ]  	epochs: 100
+2022-05-24 22:59:39 [INFO ]  	epochs_since_improvement: 5
+2022-05-24 22:59:39 [INFO ]  	exp_id: test1
+2022-05-24 22:59:39 [INFO ]  	f: null
+2022-05-24 22:59:39 [INFO ]  	fcl_base_temperature_g: 0.01
+2022-05-24 22:59:39 [INFO ]  	fcl_base_temperature_y: 0.01
+2022-05-24 22:59:39 [INFO ]  	fcl_lambda_g: 0.1
+2022-05-24 22:59:39 [INFO ]  	fcl_lambda_y: 0.1
+2022-05-24 22:59:39 [INFO ]  	fcl_temperature_g: 0.01
+2022-05-24 22:59:39 [INFO ]  	fcl_temperature_y: 0.01
+2022-05-24 22:59:39 [INFO ]  	full_label: true
+2022-05-24 22:59:39 [INFO ]  	gated: false
+2022-05-24 22:59:39 [INFO ]  	gated_mapping: null
+2022-05-24 22:59:39 [INFO ]  	hidden_size: 300
+2022-05-24 22:59:39 [INFO ]  	log_file: ./results/dev\Bios_both\test1\output.log
+2022-05-24 22:59:39 [INFO ]  	log_interval: 50
+2022-05-24 22:59:39 [INFO ]  	log_level: INFO
+2022-05-24 22:59:39 [INFO ]  	lr: 0.003
+2022-05-24 22:59:39 [INFO ]  	model_dir: ./results/dev\Bios_both\test1\models
+2022-05-24 22:59:39 [INFO ]  	n_hidden: 2
+2022-05-24 22:59:39 [INFO ]  	no_log: false
+2022-05-24 22:59:39 [INFO ]  	num_classes: 28
+2022-05-24 22:59:39 [INFO ]  	num_groups: 4
+2022-05-24 22:59:39 [INFO ]  	num_workers: 0
+2022-05-24 22:59:39 [INFO ]  	project_dir: dev
+2022-05-24 22:59:39 [INFO ]  	results_dir: ./results/
+2022-05-24 22:59:39 [INFO ]  	save_batch_results: true
+2022-05-24 22:59:39 [INFO ]  	start_time: '2022-05-24 22:59:39'
+2022-05-24 22:59:39 [INFO ]  	test_batch_size: 1024
+2022-05-24 22:59:39 [INFO ]  	
+2022-05-24 22:59:48 [INFO ]  train dataset size:	72578
+2022-05-24 22:59:48 [INFO ]  validation dataset size: 	10956
+2022-05-24 22:59:48 [INFO ]  test dataset size: 	27851
+2022-05-24 22:59:48 [INFO ]  datasets built!
+2022-05-24 22:59:48 [INFO ]  MLP( 
+2022-05-24 22:59:48 [INFO ]    (output_layer): Linear(in_features=300, out_features=28, bias=True)
+2022-05-24 22:59:48 [INFO ]    (AF): Tanh()
+2022-05-24 22:59:48 [INFO ]    (hidden_layers): ModuleList(
+2022-05-24 22:59:48 [INFO ]      (0): Linear(in_features=768, out_features=300, bias=True)
+2022-05-24 22:59:48 [INFO ]      (1): Tanh()
+2022-05-24 22:59:48 [INFO ]      (2): Linear(in_features=300, out_features=300, bias=True)
+2022-05-24 22:59:48 [INFO ]      (3): Tanh()
+2022-05-24 22:59:48 [INFO ]    )
+2022-05-24 22:59:48 [INFO ]    (criterion): CrossEntropyLoss()
+2022-05-24 22:59:48 [INFO ]  )
+2022-05-24 22:59:48 [INFO ]  Total number of parameters: 329428 
+
+2022-05-24 22:59:48 [INFO ]  Model Initialized!
+2022-05-24 22:59:51 [INFO ]  Epoch:    0 [      0/  72578 ( 0%)]	Loss: 3.3534	 Data Time: 0.03s	Train Time: 2.93s
+2022-05-24 22:59:51 [INFO ]  Epoch:    0 [  51200/  72578 (70%)]	Loss: 0.8638	 Data Time: 0.35s	Train Time: 0.08s
+2022-05-24 22:59:52 [INFO ]  Validation accuracy: 74.29	macro_fscore: 59.00	micro_fscore: 74.29	TPR_GAP: 48.55	FPR_GAP: 2.16	PPR_GAP: 5.30	
+2022-05-24 22:59:52 [INFO ]  Test accuracy: 74.29	macro_fscore: 59.18	micro_fscore: 74.29	TPR_GAP: 46.56	FPR_GAP: 2.18	PPR_GAP: 5.54	
+2022-05-24 22:59:52 [INFO ]  Evaluation at Epoch 0
+2022-05-24 22:59:53 [INFO ]  Validation accuracy: 76.93	macro_fscore: 63.06	micro_fscore: 76.93	TPR_GAP: 45.55	FPR_GAP: 1.57	PPR_GAP: 4.82	
+2022-05-24 22:59:53 [INFO ]  Test accuracy: 77.30	macro_fscore: 63.76	micro_fscore: 77.30	TPR_GAP: 48.58	FPR_GAP: 1.76	PPR_GAP: 5.15	
+2022-05-24 22:59:53 [INFO ]  Epoch:    1 [      0/  72578 ( 0%)]	Loss: 0.7511	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 22:59:54 [INFO ]  Epoch:    1 [  51200/  72578 (70%)]	Loss: 0.6280	 Data Time: 0.38s	Train Time: 0.08s
+2022-05-24 22:59:54 [INFO ]  Validation accuracy: 78.85	macro_fscore: 68.69	micro_fscore: 78.85	TPR_GAP: 50.28	FPR_GAP: 1.38	PPR_GAP: 4.68	
+2022-05-24 22:59:54 [INFO ]  Test accuracy: 79.38	macro_fscore: 70.42	micro_fscore: 79.38	TPR_GAP: 44.68	FPR_GAP: 1.45	PPR_GAP: 5.06	
+2022-05-24 22:59:54 [INFO ]  Evaluation at Epoch 1
+2022-05-24 22:59:55 [INFO ]  Validation accuracy: 79.30	macro_fscore: 69.05	micro_fscore: 79.30	TPR_GAP: 53.20	FPR_GAP: 1.14	PPR_GAP: 4.41	
+2022-05-24 22:59:55 [INFO ]  Test accuracy: 79.60	macro_fscore: 70.44	micro_fscore: 79.60	TPR_GAP: 44.89	FPR_GAP: 1.12	PPR_GAP: 4.60	
+2022-05-24 22:59:55 [INFO ]  Epoch:    2 [      0/  72578 ( 0%)]	Loss: 0.6045	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 22:59:56 [INFO ]  Epoch:    2 [  51200/  72578 (70%)]	Loss: 0.6468	 Data Time: 0.38s	Train Time: 0.09s
+2022-05-24 22:59:56 [INFO ]  Validation accuracy: 79.70	macro_fscore: 71.51	micro_fscore: 79.70	TPR_GAP: 56.32	FPR_GAP: 1.32	PPR_GAP: 4.84	
+2022-05-24 22:59:56 [INFO ]  Test accuracy: 80.29	macro_fscore: 72.59	micro_fscore: 80.29	TPR_GAP: 46.85	FPR_GAP: 1.44	PPR_GAP: 5.24	
+2022-05-24 22:59:57 [INFO ]  Evaluation at Epoch 2
+2022-05-24 22:59:57 [INFO ]  Validation accuracy: 79.34	macro_fscore: 69.78	micro_fscore: 79.34	TPR_GAP: 54.84	FPR_GAP: 1.24	PPR_GAP: 4.73	
+2022-05-24 22:59:57 [INFO ]  Test accuracy: 79.96	macro_fscore: 71.42	micro_fscore: 79.96	TPR_GAP: 46.16	FPR_GAP: 1.28	PPR_GAP: 5.02	
+2022-05-24 22:59:57 [INFO ]  Epoch:    3 [      0/  72578 ( 0%)]	Loss: 0.6059	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 22:59:58 [INFO ]  Epoch:    3 [  51200/  72578 (70%)]	Loss: 0.5720	 Data Time: 0.43s	Train Time: 0.10s
+2022-05-24 22:59:59 [INFO ]  Validation accuracy: 79.83	macro_fscore: 70.16	micro_fscore: 79.83	TPR_GAP: 54.03	FPR_GAP: 1.34	PPR_GAP: 4.85	
+2022-05-24 22:59:59 [INFO ]  Test accuracy: 80.50	macro_fscore: 71.63	micro_fscore: 80.50	TPR_GAP: 45.14	FPR_GAP: 1.30	PPR_GAP: 5.04	
+2022-05-24 22:59:59 [INFO ]  Evaluation at Epoch 3
+2022-05-24 23:00:00 [INFO ]  Validation accuracy: 79.98	macro_fscore: 71.54	micro_fscore: 79.98	TPR_GAP: 49.56	FPR_GAP: 1.39	PPR_GAP: 4.63	
+2022-05-24 23:00:00 [INFO ]  Test accuracy: 80.66	macro_fscore: 72.78	micro_fscore: 80.66	TPR_GAP: 48.04	FPR_GAP: 1.44	PPR_GAP: 4.96	
+2022-05-24 23:00:00 [INFO ]  Epoch:    4 [      0/  72578 ( 0%)]	Loss: 0.5424	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:00 [INFO ]  Epoch:    4 [  51200/  72578 (70%)]	Loss: 0.5913	 Data Time: 0.38s	Train Time: 0.08s
+2022-05-24 23:00:01 [INFO ]  Validation accuracy: 79.97	macro_fscore: 71.98	micro_fscore: 79.97	TPR_GAP: 47.28	FPR_GAP: 1.19	PPR_GAP: 4.66	
+2022-05-24 23:00:01 [INFO ]  Test accuracy: 80.90	macro_fscore: 73.57	micro_fscore: 80.90	TPR_GAP: 41.93	FPR_GAP: 1.31	PPR_GAP: 4.98	
+2022-05-24 23:00:01 [INFO ]  Epochs since last improvement: 1
+2022-05-24 23:00:01 [INFO ]  Evaluation at Epoch 4
+2022-05-24 23:00:01 [INFO ]  Validation accuracy: 79.63	macro_fscore: 70.98	micro_fscore: 79.63	TPR_GAP: 49.46	FPR_GAP: 0.96	PPR_GAP: 4.21	
+2022-05-24 23:00:01 [INFO ]  Test accuracy: 80.32	macro_fscore: 72.93	micro_fscore: 80.32	TPR_GAP: 46.85	FPR_GAP: 0.99	PPR_GAP: 4.35	
+2022-05-24 23:00:01 [INFO ]  Epoch:    5 [      0/  72578 ( 0%)]	Loss: 0.5427	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:02 [INFO ]  Epoch:    5 [  51200/  72578 (70%)]	Loss: 0.5496	 Data Time: 0.36s	Train Time: 0.09s
+2022-05-24 23:00:03 [INFO ]  Validation accuracy: 80.09	macro_fscore: 72.49	micro_fscore: 80.09	TPR_GAP: 50.58	FPR_GAP: 1.43	PPR_GAP: 4.87	
+2022-05-24 23:00:03 [INFO ]  Test accuracy: 80.83	macro_fscore: 74.09	micro_fscore: 80.83	TPR_GAP: 42.02	FPR_GAP: 1.54	PPR_GAP: 5.26	
+2022-05-24 23:00:03 [INFO ]  Evaluation at Epoch 5
+2022-05-24 23:00:04 [INFO ]  Validation accuracy: 80.73	macro_fscore: 72.92	micro_fscore: 80.73	TPR_GAP: 53.11	FPR_GAP: 1.17	PPR_GAP: 4.72	
+2022-05-24 23:00:04 [INFO ]  Test accuracy: 81.51	macro_fscore: 74.94	micro_fscore: 81.51	TPR_GAP: 43.50	FPR_GAP: 1.25	PPR_GAP: 5.05	
+2022-05-24 23:00:04 [INFO ]  Epoch:    6 [      0/  72578 ( 0%)]	Loss: 0.5053	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:04 [INFO ]  Epoch:    6 [  51200/  72578 (70%)]	Loss: 0.5569	 Data Time: 0.39s	Train Time: 0.09s
+2022-05-24 23:00:05 [INFO ]  Validation accuracy: 80.13	macro_fscore: 72.48	micro_fscore: 80.13	TPR_GAP: 50.14	FPR_GAP: 1.57	PPR_GAP: 4.96	
+2022-05-24 23:00:05 [INFO ]  Test accuracy: 81.06	macro_fscore: 74.27	micro_fscore: 81.06	TPR_GAP: 46.12	FPR_GAP: 1.46	PPR_GAP: 5.26	
+2022-05-24 23:00:05 [INFO ]  Epochs since last improvement: 1
+2022-05-24 23:00:05 [INFO ]  Evaluation at Epoch 6
+2022-05-24 23:00:06 [INFO ]  Validation accuracy: 80.40	macro_fscore: 72.72	micro_fscore: 80.40	TPR_GAP: 49.55	FPR_GAP: 1.23	PPR_GAP: 4.58	
+2022-05-24 23:00:06 [INFO ]  Test accuracy: 81.14	macro_fscore: 75.25	micro_fscore: 81.14	TPR_GAP: 45.17	FPR_GAP: 1.20	PPR_GAP: 4.83	
+2022-05-24 23:00:06 [INFO ]  Epoch:    7 [      0/  72578 ( 0%)]	Loss: 0.4985	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:06 [INFO ]  Epoch:    7 [  51200/  72578 (70%)]	Loss: 0.5499	 Data Time: 0.39s	Train Time: 0.09s
+2022-05-24 23:00:07 [INFO ]  Validation accuracy: 80.28	macro_fscore: 72.13	micro_fscore: 80.28	TPR_GAP: 52.80	FPR_GAP: 1.28	PPR_GAP: 4.85	
+2022-05-24 23:00:07 [INFO ]  Test accuracy: 80.86	macro_fscore: 73.35	micro_fscore: 80.86	TPR_GAP: 44.31	FPR_GAP: 1.48	PPR_GAP: 5.36	
+2022-05-24 23:00:07 [INFO ]  Epochs since last improvement: 2
+2022-05-24 23:00:07 [INFO ]  Evaluation at Epoch 7
+2022-05-24 23:00:07 [INFO ]  Validation accuracy: 80.52	macro_fscore: 72.41	micro_fscore: 80.52	TPR_GAP: 50.38	FPR_GAP: 0.93	PPR_GAP: 4.42	
+2022-05-24 23:00:07 [INFO ]  Test accuracy: 81.09	macro_fscore: 73.56	micro_fscore: 81.09	TPR_GAP: 43.94	FPR_GAP: 1.01	PPR_GAP: 4.74	
+2022-05-24 23:00:07 [INFO ]  Epoch:    8 [      0/  72578 ( 0%)]	Loss: 0.5044	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:08 [INFO ]  Epoch:    8 [  51200/  72578 (70%)]	Loss: 0.5542	 Data Time: 0.41s	Train Time: 0.10s
+2022-05-24 23:00:09 [INFO ]  Validation accuracy: 80.34	macro_fscore: 72.44	micro_fscore: 80.34	TPR_GAP: 52.70	FPR_GAP: 1.44	PPR_GAP: 4.95	
+2022-05-24 23:00:09 [INFO ]  Test accuracy: 81.11	macro_fscore: 74.00	micro_fscore: 81.11	TPR_GAP: 45.54	FPR_GAP: 1.55	PPR_GAP: 5.20	
+2022-05-24 23:00:09 [INFO ]  Epochs since last improvement: 3
+2022-05-24 23:00:09 [INFO ]  Evaluation at Epoch 8
+2022-05-24 23:00:09 [INFO ]  Validation accuracy: 80.16	macro_fscore: 71.34	micro_fscore: 80.16	TPR_GAP: 51.01	FPR_GAP: 1.15	PPR_GAP: 4.68	
+2022-05-24 23:00:09 [INFO ]  Test accuracy: 81.08	macro_fscore: 73.73	micro_fscore: 81.08	TPR_GAP: 44.27	FPR_GAP: 1.16	PPR_GAP: 4.94	
+2022-05-24 23:00:09 [INFO ]  Epoch:    9 [      0/  72578 ( 0%)]	Loss: 0.4599	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:10 [INFO ]  Epoch:    9 [  51200/  72578 (70%)]	Loss: 0.4671	 Data Time: 0.41s	Train Time: 0.09s
+2022-05-24 23:00:10 [INFO ]  Validation accuracy: 80.24	macro_fscore: 73.26	micro_fscore: 80.24	TPR_GAP: 50.38	FPR_GAP: 1.42	PPR_GAP: 4.92	
+2022-05-24 23:00:10 [INFO ]  Test accuracy: 81.09	macro_fscore: 74.72	micro_fscore: 81.09	TPR_GAP: 45.61	FPR_GAP: 1.52	PPR_GAP: 5.38	
+2022-05-24 23:00:11 [INFO ]  Epochs since last improvement: 4
+2022-05-24 23:00:11 [INFO ]  Evaluation at Epoch 9
+2022-05-24 23:00:11 [INFO ]  Validation accuracy: 80.91	macro_fscore: 73.97	micro_fscore: 80.91	TPR_GAP: 50.96	FPR_GAP: 1.26	PPR_GAP: 4.82	
+2022-05-24 23:00:11 [INFO ]  Test accuracy: 81.60	macro_fscore: 74.84	micro_fscore: 81.60	TPR_GAP: 43.30	FPR_GAP: 1.50	PPR_GAP: 5.24	
+2022-05-24 23:00:11 [INFO ]  Epoch:   10 [      0/  72578 ( 0%)]	Loss: 0.4638	 Data Time: 0.01s	Train Time: 0.00s
+2022-05-24 23:00:12 [INFO ]  Epoch:   10 [  51200/  72578 (70%)]	Loss: 0.5095	 Data Time: 0.36s	Train Time: 0.08s
+2022-05-24 23:00:12 [INFO ]  Validation accuracy: 80.75	macro_fscore: 72.38	micro_fscore: 80.75	TPR_GAP: 53.71	FPR_GAP: 1.32	PPR_GAP: 4.84	
+2022-05-24 23:00:12 [INFO ]  Test accuracy: 81.39	macro_fscore: 73.99	micro_fscore: 81.39	TPR_GAP: 39.00	FPR_GAP: 1.32	PPR_GAP: 5.11	
+2022-05-24 23:00:13 [INFO ]  Epochs since last improvement: 5
+2022-05-24 23:00:13 [INFO ]  Evaluation at Epoch 10
+2022-05-24 23:00:13 [INFO ]  Validation accuracy: 80.90	macro_fscore: 72.71	micro_fscore: 80.90	TPR_GAP: 49.67	FPR_GAP: 0.95	PPR_GAP: 4.40	
+2022-05-24 23:00:13 [INFO ]  Test accuracy: 81.87	macro_fscore: 74.63	micro_fscore: 81.87	TPR_GAP: 43.97	FPR_GAP: 0.90	PPR_GAP: 4.59	
+2022-05-24 23:00:13 [INFO ]  Model Trained!
+2022-05-24 23:00:13 [INFO ]  Finished!
