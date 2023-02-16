@@ -27,6 +27,10 @@ We conduct evaluations based on existing sources that are publicly available onl
 
   This notebook reproduces Figure 7 of the paper. 
 
+- 1_selection\model_selection.ipynb
 
+  This notebook includes different model selection methods descibed in Section 4.3 of the paper. Besides, it also reproduces the Figure 3.
 
- 
+- 2_comparison\model_comparison.ipynb
+
+  This notebook reproduces Figures 4 and 8, and Tables 3 and 5.
