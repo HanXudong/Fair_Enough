@@ -12,6 +12,21 @@ If you use the code, please cite the following paper:
 }
 ```
 
-- The code for reproducing results is included.
-- We conduct evaluations based on existing sources that are publicly available online. Please see the online source https://github.com/HanXudong/fairlib for more details.
+## Code
+We conduct evaluations based on existing sources that are publicly available online. Please see the online source https://github.com/HanXudong/fairlib for more details.
+
+- 0_evaluation\aggregation.ipynb
+
+  This notebook implements the aggregation methods described in Section 3 of the paper.
+
+- 0_evaluation\raw_data.ipynb
+
+  This notebook reproduces Figures 1 and 7 in the paper. 
+
+- 0_evaluation\confusion_matrices.ipynb
+
+  This notebook reproduces Figure 7 of the paper. 
+
+
+
  
